@@ -42,7 +42,7 @@ export default function GraphEventoAlcance(){
       <div className='cartaGrafoEventos nubepalabras grafo-eventos-alcance'>
      
   <Tooltip title="Click para ver el grafo">
-    <a href={`https://qsngrafos.vercel.app/eventos-alcance/maduro-ig/grafo_eventos_alcance.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/eventos-alcance/jalisco-ig/grafo_eventos_alcance.html`} target="_blank">
     <div className='video-explicativo carta '>
       <img src={foto} className='imagen-grafo-eventos' />
       <img src={foto2} className='imagen-grafo-eventos'/>
